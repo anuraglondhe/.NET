@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|d:\\.net assignments\\.net\\assignment3\\assignment3_1\\assignment3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|solutionrelative:assignment3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|d:\\.net assignments\\.net\\assignment3\\assignment3_1\\assignment3_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|solutionrelative:assignment3_1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|d:\\.net assignments\\.net\\assignment3\\assignment3_1\\assignment3_1\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|solutionrelative:assignment3_1\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|d:\\.net assignments\\.net\\assignment3\\assignment3_1\\assignment3_1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|solutionrelative:assignment3_1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111225_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|d:\\.net assignments\\.net\\assignment3\\assignment3_1\\assignment3_1\\migrations\\20251213111519_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19578FE8-0C0E-C3C9-8286-843F4EC8CD2A}|Assignment3_1\\Assignment3_1.csproj|solutionrelative:assignment3_1\\migrations\\20251213111519_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251213111519_mg1.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111519_mg1.cs",
+              "RelativeDocumentMoniker": "Assignment3_1\\Migrations\\20251213111519_mg1.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111519_mg1.cs",
+              "RelativeToolTip": "Assignment3_1\\Migrations\\20251213111519_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:15:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Assignment3_1\\SchoolContext.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\SchoolContext.cs",
+              "RelativeToolTip": "Assignment3_1\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:14:05.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251213111225_mg1.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111225_mg1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111225_mg1.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111225_mg1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_1\\Assignment3_1\\Migrations\\20251213111225_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:12:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment3_1\\Course.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Course.cs",
+              "RelativeToolTip": "Assignment3_1\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:11:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment3_1\\Student.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Student.cs",
+              "RelativeToolTip": "Assignment3_1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:11:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3_1\\Program.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment3\\Assignment3_1\\Assignment3_1\\Program.cs",
+              "RelativeToolTip": "Assignment3_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:39:42.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
