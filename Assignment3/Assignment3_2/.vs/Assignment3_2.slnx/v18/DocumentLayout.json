@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\migrations\\20251213180930_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\migrations\\20251213180930_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|d:\\sunbeam (training program)\\assignments\\consoleapp1\\assignment3_2\\assignment3_2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E250037-FAA4-4B85-C01D-600C5AFF647F}|Assignment3_2\\Assignment3_2.csproj|solutionrelative:assignment3_2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 250,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251213180930_mg2.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Migrations\\20251213180930_mg2.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\Migrations\\20251213180930_mg2.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Migrations\\20251213180930_mg2.cs",
+              "RelativeToolTip": "Assignment3_2\\Migrations\\20251213180930_mg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:09:30.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\TaskContext.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\TaskContext.cs",
+              "RelativeToolTip": "Assignment3_2\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:04:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\TaskItem.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\TaskItem.cs",
+              "RelativeToolTip": "Assignment3_2\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:56:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Staff.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\Staff.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Staff.cs",
+              "RelativeToolTip": "Assignment3_2\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:54:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Manager.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\Manager.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Manager.cs",
+              "RelativeToolTip": "Assignment3_2\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:53:57.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3_2\\Program.cs",
+              "ToolTip": "D:\\Sunbeam (Training Program)\\Assignments\\ConsoleApp1\\Assignment3_2\\Assignment3_2\\Program.cs",
+              "RelativeToolTip": "Assignment3_2\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwIgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:29:45.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
