@@ -1,0 +1,38 @@
+﻿@* namespace Assignment4.Views.Home.
+{
+    public class Edit *@
+@model List<Assignment4.Models.Student>
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <form action="/Home/AfterEdit">
+        <table class="table">
+            @foreach (var std in Model)
+                {
+                    <tr>
+                        <td><input type="hidden" name="Id" value="@std.Id" /></td>
+                    </tr>
+                    <tr>
+                        <td>Name</td>
+                        <td><input type="text" name="FirstName" value="@std.FirstName" /></td>
+                    </tr>
+                    <tr>
+                        <td>CourseName</td>
+                        <td><input type="text" name="LastName" value="@std.LastName" /></td>
+                    </tr>
+                }
+                <tr>
+                <td><input type="submit" />Submit</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+
+
+@* } *@

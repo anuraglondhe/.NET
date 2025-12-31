@@ -1,0 +1,25 @@
+﻿@model List<Assignment4.Models.Student>
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <form action="/Home/AfterCreate">
+        <table class="table">
+
+            <tr>
+                <td>First Name <input type="FirstName" name="Name" /></td>
+            </tr>
+            <tr>
+                <td>Last Name<input type="LastName" name="LastName" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

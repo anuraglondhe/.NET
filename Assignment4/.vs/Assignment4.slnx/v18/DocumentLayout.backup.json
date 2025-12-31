@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net assignments\\.NET\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Migrations\\20251231113526_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment4\\Migrations\\20251231113526_mg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|d:\\.net assignments\\.net\\assignment4\\assignment4\\models\\spcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E54AD-1676-6BD5-C3B4-D881C7A3895D}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\models\\spcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T11:36:39.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Program.cs",
+              "RelativeToolTip": "Assignment4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:36:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251231113526_mg2.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Migrations\\20251231113526_mg2.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Migrations\\20251231113526_mg2.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Migrations\\20251231113526_mg2.cs",
+              "RelativeToolTip": "Assignment4\\Migrations\\20251231113526_mg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:35:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:14:50.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment4\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Assignment4\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T11:08:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Models\\Student.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment4\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:55:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment4\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Assignment4\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T11:07:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spcontext.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Spcontext.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Models\\Spcontext.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Spcontext.cs",
+              "RelativeToolTip": "Assignment4\\Models\\Spcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:57:23.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Models\\Course.cs",
+              "ToolTip": "D:\\.net assignments\\.NET\\Assignment4\\Assignment4\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T09:56:52.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
